@@ -1,0 +1,11 @@
+supplier_id,supplier_Delivery_time,max_delivery_time,min_delivery_time,supported_sku,total_volume_handeled
+SUP_9,8,14,2,16,117259
+SUP_6,8,14,2,16,146684
+SUP_3,8,14,2,20,168017
+SUP_5,7,13,2,21,168145
+SUP_4,9,14,3,22,183147
+SUP_2,8,14,2,21,190999
+SUP_10,7,14,2,21,197242
+SUP_1,8,14,3,23,204249
+SUP_8,9,14,2,22,205407
+SUP_7,8,14,2,29,248830

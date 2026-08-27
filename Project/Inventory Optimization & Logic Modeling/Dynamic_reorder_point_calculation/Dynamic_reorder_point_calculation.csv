@@ -1,0 +1,6 @@
+sku_id,avg_daily_demand,avg_lead_time,safety_stock,reorder_point
+SKU_36,20.05,11.40,51.02,280
+SKU_38,20.13,11.20,50.84,276
+SKU_41,20.02,11.20,50.16,274
+SKU_9,20.19,10.60,48.47,263
+SKU_3,20.16,10.60,49.44,263

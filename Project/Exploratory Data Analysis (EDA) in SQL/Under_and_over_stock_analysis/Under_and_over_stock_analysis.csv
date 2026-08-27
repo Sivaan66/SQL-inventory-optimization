@@ -1,0 +1,6 @@
+warehouse_id,Over_stock,under_stock,total_recorded_days
+WH_1,17252,956,18250
+WH_2,17246,954,18250
+WH_3,17238,964,18250
+WH_4,17242,946,18250
+WH_5,17231,967,18250
